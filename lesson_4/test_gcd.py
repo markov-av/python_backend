@@ -1,5 +1,5 @@
 import unittest
-import gcd
+from lesson_4 import gcd
 
 
 class GcdTest(unittest.TestCase):
